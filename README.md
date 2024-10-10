@@ -1,4 +1,4 @@
-# Machine-Learning-projects
+# Coupon Accepatnce Project
 
 The data coupons.csv gives an insight into different factors contirbuting towards making the decision of whether to accept the coupon or not.
 These factors are behavioral, demographical and contextual in nature.
