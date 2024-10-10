@@ -61,8 +61,7 @@ Bar Coupon Analysis:
 1) Frequent Bar-Goers who who visit bars more than 3 times a month have a significantly higher acceptance rate for bar coupons.
 2) Younger individuals (under the age of 30) show a higher acceptance rate for bar coupons.
 3) Drivers traveling with passengers who are not kids have a higher acceptance rate for bar coupons, suggesting that these promotions are more appealing in adult social contexts.
-4) Individuals who earn less than 50K and visit cheaper restaurants frequently are less likely to accept bar coupons, indicating that these promotions may not align with their spending habits or preferences.
-
+4) Individuals who earn less than 50K and visit cheaper restaurants frequently are less likely to accept bar coupons, indicating that these coupon offers may not be attractive to them or they are less likely to accept that 
 
 We also decided to analyze each column/feature and see which one of them had maximum acceptance as that would give us an overview regarding which factor has maximum contribution towards coupn acceptance.
 The tope 5 contributors are 
