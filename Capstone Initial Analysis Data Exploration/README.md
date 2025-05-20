@@ -111,52 +111,12 @@ RMS energy
 
 These features effectively distinguish structured speech from noise in diverse SNR conditions.
 
-📁 Project Structure
-mathematica
-Copy
-Edit
-SpeechNoiseClassifier/
-├── data/
-│   ├── train_data.csv                ← Frame-wise features + labels
-│   └── feature_importances.csv      ← Output of feature importance plot
-├── Speech_Noise_EDA_and_Modeling.ipynb  ← Full ML pipeline
-├── README.md
 🚀 Future Work
 📊 Use CNNs on spectrograms for automatic feature learning
 
 🧠 Add LSTM layers to model temporal continuity
 
 📈 Use pretrained models (wav2vec 2.0, HuBERT)
-
-🎛️ Augment data with noise overlays, time-shifting, and pitch scaling
-
-▶️ How to Run
-Clone this repo
-
-Ensure train_data.csv exists inside /data/
-
-Open the notebook in Jupyter
-
-Run all cells — outputs and plots will be auto-generated
-
-👤 Author
-This capstone project was built as part of a Machine Learning course to demonstrate practical model building, audio classification, and exploratory analysis in real-world signal processing.
-
-yaml
-Copy
-Edit
-
----
-
-✅ You're now ready to commit this along with:
-
-- `Speech_Noise_EDA_and_Modeling.ipynb`
-- `data/train_data.csv`
-- `data/feature_importances.csv`
-
-Would you like me to package this as a ZIP so you can directly upload it to GitHub?
-
-
 
 
 
