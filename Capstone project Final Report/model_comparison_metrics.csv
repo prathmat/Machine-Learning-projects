@@ -1,0 +1,6 @@
+Metric,CNN+LSTM,Random Forest
+Accuracy,0.9342,0.9408
+True Positives,427.0,413.0
+True Negatives,240.0,220.0
+False Positives,21.0,40.0
+False Negatives,26.0,35.0
