@@ -13,6 +13,9 @@ This project builds upon the initial classical ML-based analysis to classify aud
 - **Content**:
   - `CleanSpeech_training`: Clean speech WAV files.
   - `NoisySpeech_training`: Speech files mixed with environmental noise at varying SNR levels.
+  - train_data.csv is the CSV  created by pairing features from NoisySpeech_training with labels generated from CleanSpeech_training.This data is similar to what was used in [GitHub - Capstone Initial Analysis](https://github.com/prathmat/Machine-Learning-projects/blob/main/Capstone%20Initial%20Analysis%20Data%20Exploration/Capstone_20_1.ipynb)
+
+
 
 ---
 
